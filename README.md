@@ -4,6 +4,8 @@ This Learn module requires the following Azure resources to deploy correctly:
 
 * Azure App Service
 * Azure Cosmos DB with MongoDB API
+
+
 ## Requirements
 
 - Node.js LTS
